@@ -1,5 +1,6 @@
 <?php
 
+//Put your Flick Username and Password below.
 $username = "me@example.com";
 $password = "mypassword";
 
